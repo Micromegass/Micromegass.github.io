@@ -1,0 +1,155 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+
+}
+
+
+.heading {
+
+    text-align: center;
+}
+
+.heading a {
+
+    color: black;
+    text-decoration: none;
+
+}
+
+.heading a:hover {
+
+    color: #EA7F64;
+
+}
+
+
+.thumbnail {
+
+    height: 250px;
+    width: 300px;
+    border: 3px solid rebeccapurple;
+    margin-bottom: 50px;
+}
+
+#header-img {
+    width: 500px;
+}
+
+.image {
+    background-image: url("https://cdn.pixabay.com/photo/2016/01/12/16/47/vatican-1136071_960_720.jpg");
+    background-color: #5D5D5F;
+    background-blend-mode: multiply;
+    text-align: center;
+}
+
+
+.thumbnail {
+    margin-right: 50px;
+    margin-left: 30px;
+    background-color: beige;
+}
+
+.col-md-5:hover {
+
+    background-color: lightgoldenrodyellow;
+};
+
+
+#privacy {
+
+    cursor: pointer;
+}
+
+
+
+
+.blog-post-title-archive {
+    margin-bottom: 5px;
+    font-size: 25px;
+}
+
+.blog-archive-title {
+    margin-bottom: 50px;
+}
+
+
+.blog-nav {
+
+    float: right;
+    padding: 15px;
+    margin-right: 15px;
+
+}
+
+.glyphicon {
+
+    padding-left: 10px;
+}
+
+.blog-nav a {
+    padding-right: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+}
+
+.blog-nav a:hover {
+
+    color:#EA7F64;
+}
+
+
+.post {
+
+text-align: center;
+font-size: 17px; 
+}
+
+iframe {
+
+    border-radius: 5px;
+    border: 3px solid black;
+
+}
+
+.origin {
+
+    text-align: center;
+}
+
+#link-list {
+
+    text-decoration: none; 
+    color: black;
+    
+
+}
+
+#listview  {
+
+    border: 2px solid rebeccapurple;
+    padding: 15px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    background-color: beige;
+}
+
+#listview h1 {
+
+    font-size: 20px;
+
+}
+
+#about {
+    cursor: pointer;
+}
+
+footer {
+
+    padding-top: 50px;
+}
