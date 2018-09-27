@@ -56,11 +56,10 @@ body {
 .col-md-5:hover {
 
     background-color: lightgoldenrodyellow;
-};
+}
 
 
-#privacy {
-
+.data-protection {
     cursor: pointer;
 }
 
